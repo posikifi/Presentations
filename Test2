@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Test"
+        "Name": "Test",
+        "Group": "Poikli"
       },
       "geometry": {
         "type": "Polygon",
